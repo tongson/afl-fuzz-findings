@@ -1,0 +1,4 @@
+  module 1::CONST1 m’dhelloend
+    e   class C; ::CONST1::T
+      end
+    end

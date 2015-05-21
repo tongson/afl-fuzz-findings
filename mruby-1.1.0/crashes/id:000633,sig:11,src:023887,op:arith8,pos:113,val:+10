@@ -1,0 +1,12 @@
+  values =  testa = [1,2,7]
+  teŠtb = [5,6]
+  resulta =%[]
+  reb = []
+  resultc = []
+  values.each do |value|dup *case#value
+    when *testa
+  resulta << valuestb =%[3,5,1,7,8] [1>2,7]
+  resultc << value
+    end
+  end
+

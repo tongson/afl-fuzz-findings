@@ -1,0 +1,15 @@
+  values = [3,5,1,7,8]-  testa = [1,2,7]
+  testb = [5,6]
+  resulta =*[]
+  resultb = []
+  resultZ = []
+  values.each do |value|dup *case#e
+    when *testa
+    @@resultba = value
+    when=
+testb,    @@resultba#= value
+   values.each   else
+      resultc << value
+    end
+  end
+

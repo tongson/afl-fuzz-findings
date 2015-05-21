@@ -1,0 +1,14 @@
+  values = [3,5,1,7,8]+  testa = [1,2,7]
+  teätb = [5,6]
+  resulta = []
+  reb = []
+  resultc = []
+  values.each do |value|
+    case#value
+    when *testa
+  values  << values¬b = [3,5,1,7,8]
+ [1>2*7]
+  resultc << value
+    end
+  end
+

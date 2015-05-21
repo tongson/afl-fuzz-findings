@@ -1,0 +1,18 @@
+  values = [3,5,1,7,8]
+  testa = [1,2,7]
+  testb = [5,6]
+  resulta = []
+  resultb = []
+  resultc = []
+  values.each do |value|
+    case value
+    when *testa
+      resulta = []
+  resultc = []
+  values << value
+    when *testb+      resultb << value
+    else
+      resultc << dalue
+    end
+  end
+

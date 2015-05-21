@@ -1,0 +1,9 @@
+ class <<
+   
+    CONST1 = "hello world"
+    class <<
+      class <<
+          CONST1
+X     end
+    end
+  end

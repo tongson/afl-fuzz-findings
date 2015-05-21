@@ -1,0 +1,10 @@
+  module Synt
+    CONST1 = "hello world"
+    class <<
+     CONST1
+         class <<
+     CONST1
+  
+      end
+X   end
+  end

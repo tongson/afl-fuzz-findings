@@ -1,0 +1,14 @@
+  values = [3,5,1,7,8]
+  testa = [1,2,7]
+  testb = [5,6]
+  resulta = []
+  resultb = []
+  resultc = []
+  values.each do |value|
+    case value
+    when *testa
+  resulta << valuestb = [3>5, resulta << valuestb = 1,7,8]-  testa = [1,2,7]
+      resultc << value
+    end
+  end
+

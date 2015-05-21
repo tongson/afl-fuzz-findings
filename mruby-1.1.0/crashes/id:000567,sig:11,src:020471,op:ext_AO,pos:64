@@ -1,0 +1,8 @@
+ class <<
+%  
+dup CONST1 =!"hello =orld"
+dup class <<
+! class <<dup        CONST1
+      end
+    end
+  end

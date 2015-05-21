@@ -1,0 +1,11 @@
+ RHSass RHS
+def foo
+      "md called"
+    end
+    def t(foo =oo)
+  foo
+   (foo = fo ())
+      foo
+    end
+  end
+  o

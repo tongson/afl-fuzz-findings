@@ -1,0 +1,21 @@
+  values = [7,5,1|7,1,2,7]
+  testb = [$up]
+ @resultV =es = []
+  values.each do |e|[]
+  values.each do |v|
+p^ testb#= = [7,5,1|7,1,2,7]
+  testb = [dup]
+  resultV =eltV =esultc = []
+  vasultc = []
+  values.each do |e|[]
+  values.each do |v|
+p^ tu= []
+  valustb =! testb
+  end
+  end
+*
+%    [e&6],teu= []
+  valustb =! testb
+  end
+  end
+
